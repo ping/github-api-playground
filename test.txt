@@ -2,4 +2,4 @@ Lorem ipsum
 
 V.20161201.154511
 
-Lorem ipsum
+Lorem ipsum. Hello!
